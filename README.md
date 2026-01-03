@@ -1,5 +1,5 @@
 
-  # Customer Order Flow
+  # eatZone
 
   This is a code bundle for Customer Order Flow. The original project is available at https://www.figma.com/design/axheT4ABwy6s2U8AcsrbqT/Customer-Order-Flow.
 
